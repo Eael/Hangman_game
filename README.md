@@ -1,6 +1,6 @@
 # Hangman Game
 ## How to play
-Run 
+Run
 ```
 python3 hangman.py
 ```
