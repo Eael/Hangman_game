@@ -1,5 +1,8 @@
 # Hangman Game
 ## How to play
+Run 
 ```
-Run code with python3 hangman.py
+python3 hangman.py
 ```
+Then type in your guesses.
+Have fun
